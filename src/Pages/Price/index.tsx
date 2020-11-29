@@ -2,9 +2,6 @@ import React, { useState, useEffect } from 'react';
 
 import Sidebar from '../../components/Sidebar';
 
-import imgCorte10 from '../../images/cortes/10.jpeg';
-import imgCorte15 from '../../images/cortes/15.jpeg';
-import imgCorte25 from '../../images/cortes/25.jpeg';
 import './styles.css';
 
 
